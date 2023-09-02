@@ -8,6 +8,8 @@ html {
 
 body {
     font-family: 'Montserrat', sans-serif;
+    background-image: url("../images/background.png");
+    overflow: auto;
 }
 
 .container {
@@ -37,8 +39,7 @@ body {
 
 .form__button {
     width: 100%;
-
-    border: none;
+    border: solid;
     background-color: aquamarine;
     padding: 10px;
     border-radius: 5px;
