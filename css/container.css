@@ -10,6 +10,9 @@ body {
     font-family: 'Montserrat', sans-serif;
     background-image: url("../images/background.png");
     overflow: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
 }
 
 .container {

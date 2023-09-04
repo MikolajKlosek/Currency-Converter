@@ -1,6 +1,5 @@
 {
     const calculateResult = (amount, currency) => {
-
         const EUR = 4.43;
         const USD = 4.02;
         const AED = 1.09;
